@@ -1,4 +1,5 @@
-![video_alt](https://github.com/Coachemmy/TrioLens-Detector/blob/master/triolensDetector.mp4)
+https://github.com/user-attachments/assets/1a438045-8795-4f57-85d3-c2a41ffea007
+
 
 # TrioLens Detector
 
@@ -10,8 +11,12 @@ mathematical problem solving and shape recognition through intuitive gestures
 
 How to Run the App Locally 
 1.Clone the repository
+
 2. Install required packages using:
+
 pip install mediapipe streamlit opencv-python cvzone pillow google-genei
+
 3.Place the required assets (screen1.png, screen2.png, etc., and triolens.jpg) in the working directory.
+
 4.Run the app using:
 "streamlit run main.py"
