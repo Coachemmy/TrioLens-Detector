@@ -10,6 +10,7 @@ mathematical problem solving and shape recognition through intuitive gestures
 ## Features
 
 How to Run the App Locally 
+
 1.Clone the repository
 
 2. Install required packages using:
