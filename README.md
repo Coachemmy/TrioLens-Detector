@@ -16,7 +16,9 @@ mathematical problem solving and shape recognition through intuitive gestures.
 - Middle + Index fingers    →    Pause
 - Middle + Index + Thumb fingers    →    Send to AI
 
+## Deployment
 
+Deployment of the Triolens Detector is designed to be straightforward and platform-agnostic. The application runs on local machines using the Streamlit development server, allowing users and developers to test functionality without complex setup. Deployment steps are streamlined to allow educational institutions and research labs to quickly integrate the tool into their environments.
 
 ## How to Run the App Locally 
 
