@@ -4,7 +4,9 @@ https://github.com/user-attachments/assets/1a438045-8795-4f57-85d3-c2a41ffea007
 # TrioLens Detector
 
 TrioLens Detector is a hand tracking project emerged from the desire to combine intuitive human-computer interaction 
-with artificial intelligence leverages MediaPipe's hand tracking and Gemini AI to create a no-code interface for 
+with artificial intelligence.
+
+This project leverages MediaPipe's hand tracking and Gemini AI to create a no-code interface for 
 mathematical problem solving and shape recognition through intuitive gestures
 
 ## Features
