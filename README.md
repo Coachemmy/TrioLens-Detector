@@ -15,7 +15,7 @@ How to Run the App Locally
 
 2. Install required packages using:
 
-    #pip install mediapipe streamlit opencv-python cvzone pillow google-genei
+    "pip install mediapipe streamlit opencv-python cvzone pillow google-genei"
 
 3. Place the required assets (screen1.png, screen2.png, etc., and triolens.jpg) in the working directory.
 
