@@ -1,4 +1,3 @@
-![image_alt](https://github.com/Coachemmy/Movieers/blob/94765f862c689b4140835d8401944c82abc66324/movieers.jpg)
 ![video_alt](https://github.com/Coachemmy/TrioLens-Detector/blob/master/triolensDetector.mp4)
 
 # TrioLens Detector
