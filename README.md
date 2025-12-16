@@ -32,4 +32,7 @@ Deployment of the Triolens Detector is designed to be straightforward and platfo
 
 4. Run the app using:
     "streamlit run main.py"
-5. Enjoy the the TrioLens detection.
+
+5. Launches the Streamlit server and opens the app in your default browser
+
+6.  Enjoy exploring TrioLens gesture detection!.
